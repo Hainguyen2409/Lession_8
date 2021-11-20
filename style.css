@@ -1,3 +1,15 @@
-h1 {
-    color: blue;
+div {
+    box-sizing: border-box;
+    border: 30px solid rgb(79, 241, 79);
+    color: rgb(79, 241, 79);
+    width: 400px;
+    height: 300px;
+    padding: 50px;
+    margin: 60px;
+}
+
+h2 {
+    font-size: 40px;
+    text-align: center;
+    background-color: rgb(119, 117, 117);
 }
